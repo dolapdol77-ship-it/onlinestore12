@@ -28,6 +28,7 @@ public function orders()
         'name',
         'email',
         'password',
+        'role',
     ];
 
     /**
